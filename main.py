@@ -21,3 +21,7 @@ plt.plot(ms, mv)
 plt.xlabel("ms")
 plt.ylabel("mv")
 plt.show()
+
+a = [1, 2, 4]
+
+b = max(a, key=lambda)
